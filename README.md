@@ -41,8 +41,7 @@ Welcome to my personal website! This single-page website outlines my goals for t
 
 ## Usage
 
-This website is hosted on GitHub Pages. You can visit the live website at https://github.com/eromosene/My-site .
-
+This website is hosted on GitHub Pages. You can visit the live website at https://eromosene.github.io/My-site/
 ### Development
 
 To make changes to the website:
